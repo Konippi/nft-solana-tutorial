@@ -49,7 +49,7 @@ pub mod nft_solana_tutorial {
             Creator {
                 address: ctx.accounts.mint_authority.key(),
                 verified: false,
-                share: 100,
+                share: 0,
             },
         ];
         let symbol = "SYMB".to_string();
