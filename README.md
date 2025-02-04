@@ -3,6 +3,12 @@
 This tutorial is to learn how to mint NFTs on Solana using Rust.
 Also, I used the [Metaplex](https://www.metaplex.com/) and [Anchor](https://www.anchor-lang.com/docs) for efficient development.
 
+<div align="center"> 
+  
+  ![solana](https://github.com/user-attachments/assets/4a885230-ed8b-4de8-a410-4cf3037c5f76)
+  
+</div>
+
 ## Prerequisites
 
 Ref: https://solana.com/docs/intro/installation
